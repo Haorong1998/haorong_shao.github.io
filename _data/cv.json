@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Haorong Shao",
+    "email": "haorong.shao@unil.ch",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://haorong_shao.github.io",
+    "summary": "3rd year PhD student in Univeristy of Lausanne",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,29 +33,38 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Lausanne",
+      "area": "Ph.D in Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Barcelona School of Economics",
+      "area": "M.S. Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Barcelona School of Economics",
+      "area": "Master's Degree in Specialized Economic Analysis",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Chinese Academy of Social Sciences",
+      "area": "B.S. in Economics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
