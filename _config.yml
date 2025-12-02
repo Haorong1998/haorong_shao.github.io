@@ -23,7 +23,7 @@ repository               : "Haorong1998/haorong_shao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Haorong Shao"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD in University of Lausanne, interested in Macroeconomics and Quantitative Models"
