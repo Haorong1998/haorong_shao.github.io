@@ -29,7 +29,7 @@ author:
   bio              : "3rd year PhD in University of Lausanne, interested in Macroeconomics and Quantitative Models"
   location         : "Lausanne"
   employer         : "University of Lausanne"
-  uri              : # URL
+  uri              : haorong_shao.github.io
   email            : "haorong.shao@unil.ch" 
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8903772
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Haorong Shao
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : @haorong_shao
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
